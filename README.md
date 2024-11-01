@@ -1,11 +1,15 @@
 NAME:Bisaralla Suprathika
 
 Company:CODTECH IT SOLUTIONS
+
 ID:CT6WDS2032
+
 Domain:Python Programming
+
 Duration:Septemer to November 2024
 
 OVERVIEW OF THE PROJECT 
+
 Project:Simple Calculator Using Python
 
 OBJECTIVE:
